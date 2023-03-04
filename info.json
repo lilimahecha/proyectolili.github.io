@@ -1,0 +1,41 @@
+{
+    "squadName" : "Lliliana Mahecha ",
+    "homeTown": "Colombia City",
+	  "formed": 2023,
+	  "secretBase": "Super tower",
+	  "active": true,
+	  "members": [{
+			"name": "Super Dog",
+			"age": 9,
+			"secretIdentity": "Viko May",
+			"powers": [
+				"Water resistance",
+				"bionic gaze",
+				"can fly",
+				"super smell"
+			]
+		},
+		{
+			"name": "Wonder Cat",
+			"age": 35,
+			"secretIdentity": "Carlos Omega",
+			"powers": [
+				"sharp claws",
+				"Damage resistance",
+				"Superhuman reflexes"
+			]
+		},
+		{
+			"name": "Ice man",
+			"age": 100,
+			"secretIdentity": "Unknown",
+			"powers": [
+				"Immortality",
+				"Heat Immunity",
+				"High Density Ice",
+				"Ice Arrows",
+				"Travels At The Speed Of Light"
+			]
+		}
+	]
+}
